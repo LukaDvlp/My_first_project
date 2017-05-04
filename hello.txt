@@ -1,2 +1,4 @@
 hello! git
 Learning how to operate Git
+Created a new branch branch_a, currently working on branch_a
+Completed the task at branch_a
